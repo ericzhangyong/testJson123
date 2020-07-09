@@ -1,4 +1,5 @@
 {
+    isUseLocal = 1;
     code = 0;
     data =     {
         diagnosticResponse =         (
