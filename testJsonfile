@@ -1,0 +1,62 @@
+{
+    code = 0;
+    data =     {
+        diagnosticResponse =         (
+                        {
+                name = ODOMETER;
+                state = blue;
+                value = 6358;
+            },
+                        {
+                name = "FUEL LEVEL";
+                state = red;
+                value = 5;
+            },
+                        {
+                name = "OIL LIFE";
+                state = red;
+                value = 7;
+            },
+                        {
+                name = "TIRE PRESSURE LF";
+                state = red;
+                value = 555;
+            },
+                        {
+                name = "TIRE PRESSURE LR";
+                state = blue;
+                value = 196;
+            },
+                        {
+                name = "TIRE PRESSURE RF";
+                state = red;
+                value = 184;
+            },
+                        {
+                name = "TIRE PRESSURE RR";
+                state = blue;
+                value = 200;
+            },
+                        {
+                name = "TIRE PRESSURE PLACARD FRONT";
+                state = blue;
+                value = 241;
+            },
+                        {
+                name = "TIRE PRESSURE PLACARD REAR";
+                state = blue;
+                value = 241;
+            },
+                        {
+                name = "EV CHARGE STATE";
+                state = "";
+                value = 0;
+            }
+        );
+        greetingType = "-1";
+        greetings = "\U83b7\U53d6\U4e0d\U5230\U95ee\U5019\U8bed";
+        vehicleBrand = 0;
+        vehicleModel = 3;
+    };
+    type = 0;
+}
